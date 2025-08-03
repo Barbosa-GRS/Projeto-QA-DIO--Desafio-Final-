@@ -27,10 +27,5 @@ Acredito que todo esse conhecimento adquirido será fundamental para minha atua�
 
 ---
 
-## Contato
-
-Para dúvidas ou sugestões, fique à vontade para abrir uma issue ou me contatar diretamente.
-
----
 
 Obrigado pela visita!
